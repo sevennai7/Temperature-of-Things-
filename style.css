@@ -14,13 +14,13 @@ p {
 }
 
 .thing-name {
-  color: gray;
-  font-family: sans-serif;
-  text-align: center;
+  color: gray !important;
+  font-family: sans-serif !important;
+  text-align: center !important;
 }
 
 .thing-temp {
-  color: red;
-  font-family: sans-serif;
-  text-align: center;
+  color: red !important;
+  font-family: sans-serif !important;
+  text-align: center !important;
 }
