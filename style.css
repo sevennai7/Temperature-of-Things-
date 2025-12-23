@@ -13,13 +13,13 @@ p {
   text-align: center;
 }
 
-thing-name {
+#thing-name {
   font-family: sans-serif;
   text-align: center;
   color: gray;
 }
 
-thing-temp {
+#thing-temp {
   font-family: sans-serif;
   text-align: center;
   font-size: 15px;
