@@ -14,14 +14,13 @@ p {
 }
 
 #thing-name {
+  color: gray;
   font-family: sans-serif;
   text-align: center;
-  color: gray;
 }
 
 #thing-temp {
+  color: red;
   font-family: sans-serif;
   text-align: center;
-  font-size: 15px;
-  color: red;
 }
