@@ -1,5 +1,5 @@
 body {
-  background-color: light-gray;
+  background-color: azure;
 }
 
 h1 {
@@ -14,13 +14,13 @@ p {
 }
 
 .thing-name {
-  color: gray !important;
+  color: dimgray !important;
   font-family: sans-serif !important;
   text-align: center !important;
 }
 
 .thing-temp {
-  color: red !important;
+  color: firebrick !important;
   font-family: sans-serif !important;
   text-align: center !important;
 }
