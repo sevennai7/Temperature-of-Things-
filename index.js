@@ -1,7 +1,7 @@
 fetch("data.json")
   .then(res => res.json())
   .then(data => {
-    const item = data[0]; // temperature
+    const item = data[7]; // temperature
 
     document.getElementById("thing-name").textContent = item.n;
     document.getElementById("thing-temp").textContent =
