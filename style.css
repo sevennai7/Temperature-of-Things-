@@ -12,3 +12,16 @@ p {
   font-size: 20px;
   text-align: center;
 }
+
+thing-name {
+  font-family: sans-serif;
+  text-align: center;
+  color: gray;
+}
+
+thing-temp {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 15px;
+  color: red;
+}
